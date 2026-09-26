@@ -1,3 +1,10 @@
+/.venv
+.pytest_cache/
+__pycache__/
+*.pyc
+vec_search.egg-info/
+bench/__pycache__/
+test_triton.py
 .venv
 .pytest_cache
 test_triton.py
