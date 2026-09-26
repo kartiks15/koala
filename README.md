@@ -1,4 +1,4 @@
-# vec_search
+# koala
 
 A small learning project that implements a flat in-memory vector search using Triton for GPU kernels and PyTorch for fallbacks and orchestration.
 
